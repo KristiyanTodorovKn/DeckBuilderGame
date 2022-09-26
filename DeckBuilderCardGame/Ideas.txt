@@ -1,0 +1,17 @@
+1.Project = Browser game.
+2.Genre = Card game.(Slay the spire based) .
+3.How to create mutual repository on GitHub.
+
+
+
+Tasks:
+1.Deck builder controller.
+2.We must create 3 types of cards(Heal,Attack,Defense).
+3.We must create Main Character which is game object with abilities like Str,Agi etc..
+4.Create Enemy which is game object with same abilities like main character.
+
+
+
+
+Individual tasks:
+1.Download Unity.
